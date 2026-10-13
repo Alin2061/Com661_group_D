@@ -1,0 +1,3702 @@
+[
+    {
+        "name": "Biz0",
+<<<<<<< HEAD
+        "town": "London",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 1
+=======
+        "town": "Ilford",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Rude staff",
+                "stars": 1
+            },
+            {
+                "username": "user2",
+                "comments": "Could be better",
+                "stars": 4
+            },
+            {
+                "username": "user6",
+                "comments": "Rude staff",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz1",
+<<<<<<< HEAD
+        "town": "Liverpool",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Not worth the price",
+                "stars": 4
+            },
+            {
+                "username": "user8",
+=======
+        "town": "Camden",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user2",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Could be better",
+                "stars": 4
+            },
+            {
+                "username": "user6",
+<<<<<<< HEAD
+                "comments": "Poor service",
+                "stars": 1
+=======
+                "comments": "Would not recommend",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz2",
+<<<<<<< HEAD
+        "town": "Worthing",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+                "stars": 4
+=======
+        "town": "Belfast",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+            },
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 3
+            },
+            {
+                "username": "user8",
+                "comments": "Good service",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz3",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user8",
+                "comments": "Could be better",
+                "stars": 5
+            },
+            {
+                "username": "user3",
+                "comments": "Rude staff",
+                "stars": 2
+=======
+        "town": "Tower Hill",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Not worth the price",
+                "stars": 5
+            },
+            {
+                "username": "user8",
+                "comments": "Poor service",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz4",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            },
+            {
+                "username": "user3",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz5",
+        "town": "Portsmouth",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Could be better",
+                "stars": 4
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+            },
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz6",
+        "town": "Liverpool",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Not worth the price",
+                "stars": 4
+            },
+            {
+                "username": "user9",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz7",
+        "town": "Manchester",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Poor service",
+                "stars": 1
+            },
+            {
+                "username": "user6",
+                "comments": "Good service",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz8",
+        "town": "Belfast",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user1",
+                "comments": "Good service",
+                "stars": 1
+            }
+        ]
+    },
+    {
+        "name": "Biz9",
+        "town": "Portsmouth",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Not worth the price",
+                "stars": 4
+            },
+            {
+                "username": "user8",
+                "comments": "Rude staff",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Excellent product",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz10",
+        "town": "Belfast",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Not worth the price",
+                "stars": 5
+            },
+            {
+                "username": "user4",
+                "comments": "Excellent product",
+=======
+        "town": "Belfast",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Friendly staff",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Friendly staff",
+                "stars": 1
+<<<<<<< HEAD
+=======
+            },
+            {
+                "username": "user6",
+                "comments": "Could be better",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz5",
+        "town": "Ilford",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user7",
+                "comments": "Poor service",
+                "stars": 5
+            },
+            {
+                "username": "user6",
+                "comments": "Rude staff",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz6",
+        "town": "London",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Not worth the price",
+                "stars": 5
+            },
+            {
+                "username": "user2",
+                "comments": "Poor service",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz7",
+        "town": "Liverpool",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Could be better",
+                "stars": 3
+            },
+            {
+                "username": "user6",
+                "comments": "Rude staff",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz8",
+        "town": "Portsmouth",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user1",
+                "comments": "Would not recommend",
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz9",
+        "town": "Liverpool",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user8",
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Could be better",
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz10",
+        "town": "Tower Hill",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user4",
+                "comments": "Could be better",
+                "stars": 2
+            },
+            {
+                "username": "user6",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz11",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user2",
+=======
+        "town": "Liverpool",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Friendly staff",
+                "stars": 2
+            },
+            {
+                "username": "user4",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Could be better",
+                "stars": 5
+            },
+            {
+<<<<<<< HEAD
+                "username": "user1",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+=======
+                "username": "user0",
+                "comments": "Excellent product",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz12",
+        "town": "Liverpool",
+<<<<<<< HEAD
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            },
+            {
+                "username": "user7",
+                "comments": "Would not recommend",
+                "stars": 5
+=======
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user2",
+                "comments": "Excellent product",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz13",
+<<<<<<< HEAD
+        "town": "London",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user8",
+                "comments": "Could be better",
+                "stars": 5
+=======
+        "town": "Worthing",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user9",
+                "comments": "Friendly staff",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz14",
+<<<<<<< HEAD
+        "town": "Portsmouth",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Would not recommend",
+                "stars": 1
+            },
+            {
+                "username": "user7",
+                "comments": "Good service",
+                "stars": 4
+=======
+        "town": "Richmond",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz15",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Good service",
+                "stars": 5
+            },
+            {
+                "username": "user4",
+                "comments": "Good service",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Rude staff",
+                "stars": 5
+=======
+        "town": "Worthing",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user7",
+                "comments": "Rude staff",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz16",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 1,
+=======
+        "town": "Worthing",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Friendly staff",
+                "stars": 1
+            },
+            {
+                "username": "user7",
+                "comments": "Friendly staff",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz17",
+        "town": "Worthing",
+        "rating": 4,
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Poor service",
+<<<<<<< HEAD
+                "stars": 3
+            },
+            {
+                "username": "user9",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user4",
+=======
+                "stars": 5
+            },
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 3
+            },
+            {
+                "username": "user7",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Not worth the price",
+                "stars": 2
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz17",
+        "town": "Tower Hill",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 2
+            },
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 5
+            },
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz18",
+        "town": "Richmond",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Friendly staff",
+                "stars": 3
+            },
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 3
+=======
+        "name": "Biz18",
+        "town": "Liverpool",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Good service",
+                "stars": 4
+            },
+            {
+                "username": "user9",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz19",
+<<<<<<< HEAD
+        "town": "Liverpool",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Good service",
+                "stars": 3
+            },
+            {
+                "username": "user9",
+                "comments": "Rude staff",
+=======
+        "town": "Ilford",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Excellent product",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 5
+            },
+            {
+                "username": "user9",
+<<<<<<< HEAD
+                "comments": "Could be better",
+                "stars": 1
+=======
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Friendly staff",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz20",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Friendly staff",
+                "stars": 1
+            },
+            {
+                "username": "user6",
+                "comments": "Rude staff",
+                "stars": 4
+=======
+        "town": "Richmond",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Would not recommend",
+                "stars": 3
+            },
+            {
+                "username": "user8",
+                "comments": "Would not recommend",
+                "stars": 3
+            },
+            {
+                "username": "user9",
+                "comments": "Poor service",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz21",
+        "town": "Portsmouth",
+<<<<<<< HEAD
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Excellent product",
+=======
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Friendly staff",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 4
+            },
+            {
+                "username": "user9",
+<<<<<<< HEAD
+                "comments": "Excellent product",
+                "stars": 5
+=======
+                "comments": "Would not recommend",
+                "stars": 1
+            },
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz22",
+        "town": "London",
+<<<<<<< HEAD
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user1",
+                "comments": "Excellent product",
+                "stars": 3
+=======
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user5",
+                "comments": "Could be better",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz23",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Excellent product",
+                "stars": 1
+            },
+            {
+                "username": "user1",
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user7",
+                "comments": "Friendly staff",
+                "stars": 3
+=======
+        "town": "Worthing",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 2
+            },
+            {
+                "username": "user6",
+                "comments": "Excellent product",
+                "stars": 2
+            },
+            {
+                "username": "user4",
+                "comments": "Excellent product",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz24",
+<<<<<<< HEAD
+        "town": "Ilford",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Could be better",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+=======
+        "town": "Tower Hill",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Would not recommend",
+                "stars": 5
+            },
+            {
+                "username": "user0",
+                "comments": "Not worth the price",
+                "stars": 1
+            },
+            {
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz25",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Would not recommend",
+                "stars": 3
+            },
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 3
+            },
+            {
+                "username": "user6",
+                "comments": "Good service",
+                "stars": 2
+=======
+        "town": "Liverpool",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            },
+            {
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+            },
+            {
+                "username": "user0",
+                "comments": "Good service",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz26",
+        "town": "Belfast",
+<<<<<<< HEAD
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Good service",
+                "stars": 4
+            },
+            {
+                "username": "user0",
+                "comments": "Excellent product",
+                "stars": 5
+            },
+            {
+                "username": "user8",
+                "comments": "Good service",
+                "stars": 1
+=======
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Could be better",
+                "stars": 3
+            },
+            {
+                "username": "user7",
+                "comments": "Good service",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz27",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Good place, Worth the visit",
+=======
+        "town": "Worthing",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Excellent product",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz28",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Friendly staff",
+                "stars": 1
+            },
+            {
+                "username": "user2",
+                "comments": "Good service",
+                "stars": 5
+            },
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 3
+=======
+        "town": "London",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Rude staff",
+                "stars": 3
+            },
+            {
+                "username": "user9",
+                "comments": "Would not recommend",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz29",
+<<<<<<< HEAD
+        "town": "Worthing",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user2",
+                "comments": "Excellent product",
+                "stars": 5
+=======
+        "town": "Liverpool",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Excellent product",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Poor service",
+                "stars": 1
+            },
+            {
+                "username": "user7",
+                "comments": "Would not recommend",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz30",
+        "town": "Camden",
+<<<<<<< HEAD
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+            },
+            {
+                "username": "user6",
+                "comments": "Could be better",
+                "stars": 1
+=======
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 2
+            },
+            {
+                "username": "user0",
+                "comments": "Poor service",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz31",
+<<<<<<< HEAD
+        "town": "Worthing",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user8",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 3
+=======
+        "town": "Ilford",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+            },
+            {
+                "username": "user9",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+            },
+            {
+                "username": "user1",
+                "comments": "Would not recommend",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz32",
+<<<<<<< HEAD
+        "town": "London",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Poor service",
+                "stars": 4
+            },
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user3",
+                "comments": "Would not recommend",
+=======
+        "town": "Ilford",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user6",
+                "comments": "Excellent product",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 1
+            }
+        ]
+    },
+    {
+        "name": "Biz33",
+<<<<<<< HEAD
+        "town": "Liverpool",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+                "stars": 1
+            },
+            {
+                "username": "user3",
+                "comments": "Poor service",
+                "stars": 4
+=======
+        "town": "London",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Could be better",
+                "stars": 5
+            },
+            {
+                "username": "user7",
+                "comments": "Would not recommend",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz34",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+=======
+        "town": "Portsmouth",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user4",
+<<<<<<< HEAD
+                "comments": "Would not recommend",
+                "stars": 5
+            },
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Would not recommend",
+                "stars": 1
+=======
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Good service",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz35",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user7",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user8",
+                "comments": "Good service",
+                "stars": 2
+=======
+        "town": "Worthing",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz36",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Good service",
+                "stars": 3
+            },
+            {
+                "username": "user2",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 1
+=======
+        "town": "Portsmouth",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz37",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Friendly staff",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Could be better",
+                "stars": 4
+=======
+        "town": "Ilford",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Excellent product",
+                "stars": 1
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Would not recommend",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz38",
+<<<<<<< HEAD
+        "town": "Richmond",
+=======
+        "town": "Tower Hill",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user1",
+<<<<<<< HEAD
+                "comments": "Not worth the price",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 5
+=======
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Friendly staff",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz39",
+<<<<<<< HEAD
+        "town": "London",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Rude staff",
+                "stars": 1
+            },
+            {
+                "username": "user3",
+                "comments": "Friendly staff",
+                "stars": 2
+=======
+        "town": "Belfast",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Friendly staff",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user3",
+                "comments": "Rude staff",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz40",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Could be better",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Would not recommend",
+                "stars": 4
+=======
+        "town": "Ilford",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user8",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user9",
+                "comments": "Excellent product",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz41",
+<<<<<<< HEAD
+        "town": "London",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Not worth the price",
+                "stars": 1
+            },
+            {
+                "username": "user6",
+                "comments": "Excellent product",
+=======
+        "town": "Camden",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Friendly staff",
+                "stars": 3
+            },
+            {
+                "username": "user7",
+                "comments": "Good place, Worth the visit",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 1
+            },
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+<<<<<<< HEAD
+                "stars": 1
+=======
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz42",
+        "town": "Belfast",
+<<<<<<< HEAD
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Could be better",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+=======
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user7",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz43",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Would not recommend",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+=======
+        "town": "Tower Hill",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Rude staff",
+                "stars": 3
+            },
+            {
+                "username": "user9",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user4",
+                "comments": "Rude staff",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz44",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+=======
+        "town": "Portsmouth",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user6",
+<<<<<<< HEAD
+                "comments": "Good service",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 2
+            },
+            {
+                "username": "user8",
+                "comments": "Poor service",
+                "stars": 1
+=======
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user8",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz45",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Poor service",
+                "stars": 5
+            },
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 4
+            },
+            {
+                "username": "user3",
+                "comments": "Friendly staff",
+                "stars": 1
+=======
+        "town": "Belfast",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz46",
+<<<<<<< HEAD
+        "town": "London",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Good place, Worth the visit",
+=======
+        "town": "Richmond",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Could be better",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 5
+            },
+            {
+                "username": "user4",
+<<<<<<< HEAD
+                "comments": "Not worth the price",
+                "stars": 4
+=======
+                "comments": "Could be better",
+                "stars": 5
+            },
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz47",
+<<<<<<< HEAD
+        "town": "Worthing",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user7",
+                "comments": "Good service",
+                "stars": 2
+=======
+        "town": "Manchester",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Could be better",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Poor service",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz48",
+<<<<<<< HEAD
+        "town": "Worthing",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Excellent product",
+                "stars": 5
+            },
+            {
+                "username": "user9",
+                "comments": "Rude staff",
+                "stars": 3
+=======
+        "town": "Tower Hill",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Would not recommend",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            },
+            {
+                "username": "user6",
+                "comments": "Friendly staff",
+                "stars": 5
+<<<<<<< HEAD
+=======
+            },
+            {
+                "username": "user6",
+                "comments": "Excellent product",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz49",
+<<<<<<< HEAD
+        "town": "Portsmouth",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Friendly staff",
+                "stars": 3
+            },
+            {
+                "username": "user1",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+=======
+        "town": "Belfast",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+            },
+            {
+                "username": "user3",
+                "comments": "Poor service",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz50",
+<<<<<<< HEAD
+        "town": "Richmond",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 3
+            },
+            {
+                "username": "user7",
+                "comments": "Would not recommend",
+                "stars": 4
+            },
+            {
+                "username": "user0",
+                "comments": "Would not recommend",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz51",
+        "town": "Tower Hill",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz52",
+        "town": "Richmond",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user7",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user6",
+                "comments": "Good place, Worth the visit",
+=======
+        "town": "Worthing",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Not worth the price",
+                "stars": 1
+            },
+            {
+                "username": "user4",
+                "comments": "Excellent product",
+                "stars": 3
+            },
+            {
+                "username": "user8",
+                "comments": "Excellent product",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 5
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz53",
+        "town": "Worthing",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user8",
+                "comments": "Friendly staff",
+                "stars": 4
+=======
+        "name": "Biz51",
+        "town": "Camden",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz52",
+        "town": "Tower Hill",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+            },
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz53",
+        "town": "Belfast",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Friendly staff",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Poor service",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz54",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user4",
+                "comments": "Good service",
+                "stars": 2
+=======
+        "town": "London",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Excellent product",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz55",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 1,
+=======
+        "town": "Liverpool",
+        "rating": 5,
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Excellent product",
+<<<<<<< HEAD
+                "stars": 1
+            },
+            {
+                "username": "user2",
+                "comments": "Excellent product",
+=======
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user2",
+                "comments": "Friendly staff",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz56",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Good service",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Excellent product",
+                "stars": 1
+            },
+            {
+                "username": "user8",
+                "comments": "Good place, Worth the visit",
+=======
+        "town": "Ilford",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Not worth the price",
+                "stars": 3
+            },
+            {
+                "username": "user2",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user7",
+                "comments": "Poor service",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz57",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user9",
+                "comments": "Rude staff",
+                "stars": 4
+=======
+        "town": "Ilford",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Friendly staff",
+                "stars": 4
+            },
+            {
+                "username": "user1",
+                "comments": "Would not recommend",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz58",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Rude staff",
+                "stars": 1
+            },
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz59",
+        "town": "Camden",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+            },
+            {
+                "username": "user1",
+                "comments": "Excellent product",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz60",
+        "town": "Manchester",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user2",
+                "comments": "Rude staff",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz61",
+        "town": "Liverpool",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Excellent product",
+                "stars": 3
+            },
+            {
+                "username": "user8",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user0",
+                "comments": "Excellent product",
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz62",
+        "town": "Camden",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user6",
+                "comments": "Rude staff",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz63",
+        "town": "Portsmouth",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 5
+            },
+            {
+                "username": "user8",
+                "comments": "Excellent product",
+                "stars": 2
+            },
+            {
+                "username": "user4",
+=======
+        "town": "Worthing",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Poor service",
+                "stars": 4
+            },
+            {
+                "username": "user1",
+                "comments": "Good service",
+                "stars": 5
+            },
+            {
+                "username": "user7",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Would not recommend",
+                "stars": 1
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz64",
+        "town": "Tower Hill",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Could be better",
+=======
+        "name": "Biz59",
+        "town": "Ilford",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Not worth the price",
+                "stars": 4
+            },
+            {
+                "username": "user3",
+                "comments": "Friendly staff",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 3
+            },
+            {
+                "username": "user8",
+<<<<<<< HEAD
+                "comments": "Good place, Worth the visit",
+=======
+                "comments": "Would not recommend",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz60",
+        "town": "Liverpool",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz61",
+        "town": "Ilford",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 3
+            },
+            {
+                "username": "user5",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz62",
+        "town": "Liverpool",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user6",
+                "comments": "Could be better",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 3
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz65",
+=======
+        "name": "Biz63",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "town": "Tower Hill",
+        "rating": 2,
+        "reviews": [
+            {
+<<<<<<< HEAD
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+            },
+            {
+=======
+                "username": "user0",
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user8",
+                "comments": "Would not recommend",
+                "stars": 4
+            },
+            {
+                "username": "user3",
+                "comments": "Good service",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz64",
+        "town": "Portsmouth",
+        "rating": 4,
+        "reviews": [
+            {
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "username": "user1",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+<<<<<<< HEAD
+                "username": "user2",
+=======
+                "username": "user9",
+                "comments": "Rude staff",
+                "stars": 3
+            },
+            {
+                "username": "user3",
+                "comments": "Could be better",
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz65",
+        "town": "Worthing",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Could be better",
+                "stars": 1
+            }
+        ]
+    },
+    {
+        "name": "Biz66",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Would not recommend",
+                "stars": 5
+            },
+            {
+                "username": "user2",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user7",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+=======
+        "town": "London",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Not worth the price",
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Not worth the price",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz67",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 2
+            },
+            {
+                "username": "user9",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+=======
+        "town": "Liverpool",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Could be better",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Would not recommend",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz68",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user6",
+                "comments": "Excellent product",
+                "stars": 1
+=======
+        "town": "Portsmouth",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Would not recommend",
+                "stars": 4
+            },
+            {
+                "username": "user7",
+                "comments": "Not worth the price",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz69",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user0",
+=======
+        "town": "Camden",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+                "stars": 1
+            },
+            {
+                "username": "user2",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Excellent product",
+                "stars": 1
+            },
+            {
+<<<<<<< HEAD
+                "username": "user7",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+            },
+            {
+                "username": "user0",
+                "comments": "Excellent product",
+                "stars": 4
+=======
+                "username": "user4",
+                "comments": "Excellent product",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz70",
+<<<<<<< HEAD
+        "town": "Manchester",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user7",
+                "comments": "Good service",
+                "stars": 1
+=======
+        "town": "Portsmouth",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Friendly staff",
+                "stars": 2
+            },
+            {
+                "username": "user0",
+                "comments": "Excellent product",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz71",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 3
+            },
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 3
+            },
+            {
+                "username": "user8",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+=======
+        "town": "Worthing",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 5
+            },
+            {
+                "username": "user4",
+                "comments": "Friendly staff",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz72",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user7",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz73",
+        "town": "Ilford",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user8",
+                "comments": "Not worth the price",
+=======
+        "town": "Liverpool",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Friendly staff",
+                "stars": 4
+            },
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 1
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz74",
+        "town": "Manchester",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz75",
+        "town": "Portsmouth",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user8",
+=======
+        "name": "Biz73",
+        "town": "Belfast",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Friendly staff",
+                "stars": 2
+            },
+            {
+                "username": "user4",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Rude staff",
+                "stars": 3
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz76",
+        "town": "Tower Hill",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Friendly staff",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Good place, Worth the visit",
+=======
+        "name": "Biz74",
+        "town": "Richmond",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Could be better",
+                "stars": 5
+            },
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Could be better",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz75",
+        "town": "Camden",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Poor service",
+                "stars": 5
+            },
+            {
+                "username": "user8",
+                "comments": "Excellent product",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz76",
+        "town": "Liverpool",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Not worth the price",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz77",
+        "town": "Manchester",
+<<<<<<< HEAD
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user9",
+                "comments": "Good service",
+                "stars": 4
+=======
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 5
+            },
+            {
+                "username": "user0",
+                "comments": "Could be better",
+                "stars": 5
+            },
+            {
+                "username": "user2",
+                "comments": "Good service",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz78",
+<<<<<<< HEAD
+        "town": "Liverpool",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Friendly staff",
+                "stars": 2
+            },
+            {
+                "username": "user5",
+                "comments": "Could be better",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz79",
+        "town": "Worthing",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Friendly staff",
+                "stars": 4
+            },
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 5
+            }
+        ]
+    },
+    {
+        "name": "Biz80",
+        "town": "Richmond",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user0",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Good service",
+=======
+        "town": "Belfast",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Rude staff",
+                "stars": 3
+            },
+            {
+                "username": "user8",
+                "comments": "Would not recommend",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 1
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz81",
+        "town": "Tower Hill",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Would not recommend",
+                "stars": 4
+            },
+            {
+                "username": "user1",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+=======
+        "name": "Biz79",
+        "town": "Richmond",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Excellent product",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz82",
+=======
+        "name": "Biz80",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "town": "Liverpool",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user4",
+<<<<<<< HEAD
+                "comments": "Good service",
+                "stars": 3
+            },
+            {
+                "username": "user9",
+=======
+                "comments": "Excellent product",
+                "stars": 3
+            },
+            {
+                "username": "user1",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "comments": "Would not recommend",
+                "stars": 5
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "name": "Biz83",
+        "town": "Camden",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Friendly staff",
+                "stars": 4
+            },
+            {
+                "username": "user6",
+                "comments": "Rude staff",
+=======
+        "name": "Biz81",
+        "town": "Portsmouth",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Excellent product",
+                "stars": 5
+            },
+            {
+                "username": "user3",
+                "comments": "Poor service",
+                "stars": 2
+            },
+            {
+                "username": "user6",
+                "comments": "Good service",
+                "stars": 3
+            }
+        ]
+    },
+    {
+        "name": "Biz82",
+        "town": "Belfast",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Poor service",
+                "stars": 5
+            },
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+                "stars": 5
+            },
+            {
+                "username": "user3",
+                "comments": "Friendly staff",
+                "stars": 2
+            }
+        ]
+    },
+    {
+        "name": "Biz83",
+        "town": "Camden",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Poor service",
+                "stars": 5
+            },
+            {
+                "username": "user3",
+                "comments": "Good service",
+                "stars": 2
+            },
+            {
+                "username": "user0",
+                "comments": "Good place, Worth the visit",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz84",
+<<<<<<< HEAD
+        "town": "Ilford",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Good service",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+            },
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 5
+=======
+        "town": "Liverpool",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Could be better",
+                "stars": 4
+            },
+            {
+                "username": "user4",
+                "comments": "Would not recommend",
+                "stars": 2
+            },
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz85",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Excellent product",
+                "stars": 3
+            },
+            {
+                "username": "user3",
+                "comments": "Not worth the price",
+                "stars": 1
+            },
+            {
+                "username": "user4",
+                "comments": "Could be better",
+                "stars": 5
+=======
+        "town": "Ilford",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user4",
+                "comments": "Poor service",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz86",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Would not recommend",
+                "stars": 3
+            },
+            {
+                "username": "user1",
+                "comments": "Good service",
+                "stars": 4
+=======
+        "town": "Ilford",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Not worth the price",
+                "stars": 1
+            },
+            {
+                "username": "user0",
+                "comments": "Good service",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz87",
+<<<<<<< HEAD
+        "town": "Liverpool",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user3",
+                "comments": "Would not recommend",
+                "stars": 5
+            },
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 3
+=======
+        "town": "Belfast",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Could be better",
+                "stars": 3
+            },
+            {
+                "username": "user1",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user7",
+                "comments": "Not worth the price",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz88",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user1",
+                "comments": "Rude staff",
+=======
+        "town": "Portsmouth",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Would not recommend",
+                "stars": 2
+            },
+            {
+                "username": "user3",
+                "comments": "Excellent product",
+                "stars": 1
+            },
+            {
+                "username": "user1",
+                "comments": "Could be better",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+                "stars": 1
+            }
+        ]
+    },
+    {
+        "name": "Biz89",
+<<<<<<< HEAD
+        "town": "Portsmouth",
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Rude staff",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 1
+=======
+        "town": "Camden",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Would not recommend",
+                "stars": 2
+            },
+            {
+                "username": "user1",
+                "comments": "Friendly staff",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz90",
+        "town": "Manchester",
+<<<<<<< HEAD
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Poor service",
+                "stars": 3
+            },
+            {
+                "username": "user7",
+                "comments": "Would not recommend",
+                "stars": 1
+            },
+            {
+                "username": "user0",
+                "comments": "Friendly staff",
+                "stars": 4
+            }
+        ]
+    },
+    {
+        "name": "Biz91",
+        "town": "Ilford",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Could be better",
+                "stars": 2
+=======
+        "rating": 2,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Excellent product",
+                "stars": 4
+            },
+            {
+                "username": "user0",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            },
+            {
+                "username": "user6",
+                "comments": "Excellent product",
+                "stars": 2
+<<<<<<< HEAD
+            },
+            {
+                "username": "user3",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+=======
+            }
+        ]
+    },
+    {
+        "name": "Biz91",
+        "town": "Manchester",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Good service",
+                "stars": 1
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+            },
+            {
+                "username": "user1",
+                "comments": "Good place, Worth the visit",
+                "stars": 2
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz92",
+<<<<<<< HEAD
+        "town": "Richmond",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Could be better",
+                "stars": 1
+            },
+            {
+                "username": "user1",
+                "comments": "Poor service",
+                "stars": 5
+=======
+        "town": "Worthing",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Poor service",
+                "stars": 1
+            },
+            {
+                "username": "user9",
+                "comments": "Rude staff",
+                "stars": 1
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz93",
+<<<<<<< HEAD
+        "town": "Camden",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user2",
+                "comments": "Poor service",
+                "stars": 5
+=======
+        "town": "Tower Hill",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Poor service",
+                "stars": 1
+            },
+            {
+                "username": "user1",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz94",
+<<<<<<< HEAD
+        "town": "Manchester",
+=======
+        "town": "Tower Hill",
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user7",
+<<<<<<< HEAD
+                "comments": "Friendly staff",
+                "stars": 1
+            },
+            {
+                "username": "user9",
+                "comments": "Poor service",
+                "stars": 4
+            },
+            {
+                "username": "user6",
+                "comments": "Good service",
+                "stars": 1
+=======
+                "comments": "Rude staff",
+                "stars": 2
+            },
+            {
+                "username": "user6",
+                "comments": "Could be better",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz95",
+<<<<<<< HEAD
+        "town": "Portsmouth",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Friendly staff",
+                "stars": 4
+            },
+            {
+                "username": "user9",
+                "comments": "Poor service",
+                "stars": 4
+            },
+            {
+                "username": "user6",
+                "comments": "Not worth the price",
+                "stars": 1
+=======
+        "town": "Richmond",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user8",
+                "comments": "Would not recommend",
+                "stars": 4
+            },
+            {
+                "username": "user8",
+                "comments": "Friendly staff",
+                "stars": 3
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz96",
+<<<<<<< HEAD
+        "town": "Belfast",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Would not recommend",
+                "stars": 4
+            },
+            {
+                "username": "user4",
+                "comments": "Good service",
+                "stars": 2
+=======
+        "town": "Liverpool",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Excellent product",
+                "stars": 1
+            },
+            {
+                "username": "user2",
+                "comments": "Friendly staff",
+                "stars": 5
+            },
+            {
+                "username": "user8",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz97",
+<<<<<<< HEAD
+        "town": "Worthing",
+        "rating": 1,
+        "reviews": [
+            {
+                "username": "user7",
+                "comments": "Rude staff",
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+            },
+            {
+                "username": "user0",
+                "comments": "Not worth the price",
+                "stars": 4
+=======
+        "town": "Ilford",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user5",
+                "comments": "Good service",
+                "stars": 2
+            },
+            {
+                "username": "user4",
+                "comments": "Good place, Worth the visit",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz98",
+<<<<<<< HEAD
+        "town": "Portsmouth",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user2",
+                "comments": "Rude staff",
+                "stars": 5
+            },
+            {
+                "username": "user8",
+                "comments": "Not worth the price",
+                "stars": 3
+=======
+        "town": "Richmond",
+        "rating": 3,
+        "reviews": [
+            {
+                "username": "user4",
+                "comments": "Would not recommend",
+                "stars": 5
+            },
+            {
+                "username": "user2",
+                "comments": "Friendly staff",
+                "stars": 3
+            },
+            {
+                "username": "user3",
+                "comments": "Not worth the price",
+                "stars": 5
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    },
+    {
+        "name": "Biz99",
+<<<<<<< HEAD
+        "town": "Tower Hill",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user1",
+                "comments": "Good place, Worth the visit",
+                "stars": 1
+            },
+            {
+                "username": "user6",
+                "comments": "Good service",
+                "stars": 1
+=======
+        "town": "Manchester",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "user6",
+                "comments": "Could be better",
+                "stars": 4
+            },
+            {
+                "username": "user5",
+                "comments": "Good place, Worth the visit",
+                "stars": 4
+            },
+            {
+                "username": "user2",
+                "comments": "Would not recommend",
+                "stars": 3
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
+            }
+        ]
+    }
+]
