@@ -45,9 +45,16 @@ def show_one_businesses(biz_id):
 
     return make_response(jsonify(data_to_return[0]), 200)
 
+<<<<<<< HEAD
 # post method to add new business
 @app.route("/api/v1.0/businesses", methods=["POST"])
 def add_business():
+=======
+
+# Post method to add new business
+@app.route("/api/v1.0/businesses/", methods=["POST"])
+def add_new_business():
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
     next_id = businesses[-1]["id"] + 1
 
     new_business = {
@@ -62,6 +69,7 @@ def add_business():
 
     return make_response(jsonify(new_business), 201)
 
+<<<<<<< HEAD
 # put method to modify existing record
 @app.route("/api/v1.0/businesses/<int:biz_id>", methods=["PUT"])
 def edit_business(biz_id):
@@ -88,3 +96,28 @@ def delete_business(biz_id):
 
 if __name__ == "__main__":
     app.run(debug=True, port = 5001)
+=======
+# PUT method to modify existing record
+@app.route("/api/v1.0/businesses/<int:biz_id>", methods=["PUT"])
+def edit_business(biz_id):
+    for business in businesses:
+        if business['id'] == biz_id:
+            business['name'] = request.form['name']
+            business['town'] = request.form['town']
+            business['rating'] = request.form['rating']
+            break
+    
+    return make_response(jsonify(business), 200)
+
+# DELETE Method 
+@app.route("/api/v1.0/businesses/<int:biz_id>", methods=["DELETE"])
+def delete_business(biz_id):
+    for business in businesses:
+        if business['id'] == biz_id:
+            businesses.remove(business)
+
+    return make_response(jsonify({"Message":"Business removed successfully!!!"}))
+
+if __name__ == "__main__":
+    app.run(debug=True)
+>>>>>>> bab87b110ef9c02d0c2556b3326af5d10f1457f0
