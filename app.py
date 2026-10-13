@@ -2,29 +2,7 @@ from flask import Flask, make_response, jsonify, request
 
 app = Flask(__name__)
 
-businesses = [
-    {
-        "id": 1,
-        "name": "Costa",
-        "town": "London",
-        "rating": 4,
-        "reviews": []
-    },
-    {
-        "id": 2,
-        "name": "Nero",
-        "town": "London",
-        "rating": 4,
-        "reviews": []
-    },
-    {
-        "id": 3,
-        "name": "Starbucks",
-        "town": "London",
-        "rating": 4,
-        "reviews": []
-    },
-]
+
 
 
 @app.route("/", methods=["GET"])
